@@ -1,7 +1,7 @@
 ### Olá, eu sou a Vitória!👋
 
 * Estudante de Software com foco em Back-End na Cubos Academy;
-* Cristã, enxadrista e futura matemática;
+* Cristã, enxadrista e futura matemática.
 
 ### Tecnologias
 
