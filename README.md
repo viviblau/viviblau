@@ -1,7 +1,8 @@
 ### Olá, eu sou a Vitória!👋
 
+* Analista de BI
 * Estudante de Software com foco em Back-End na Cubos Academy;
-* Cristã, enxadrista e futura matemática.
+* Enxadrista e futura matemática.
 
 ### Tecnologias
 
